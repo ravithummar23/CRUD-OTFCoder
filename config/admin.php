@@ -6,5 +6,5 @@ return [
 	'image' => [
 		'user_image' => 'upload/profile_image/',
 	],
-	'project_mode' => 'production',   // production, live
+	'project_mode' => 'live',   // production, live
 ];
